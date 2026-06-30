@@ -10,6 +10,7 @@ Each report covers a specific finding: severity, location, description, and reco
 |---|---|---|---|---|
 | 001 | [Across Protocol - svm-spoke](./001-across-svm-spoke/) | 2026-06-29 | 3 | Informational |
 | 002 | [Paxos PYUSD](./002-paxos-pyusd/) | 2026-06-29 | 3 | Informational |
+| 003 | [Kamino klend](./003-kamino-klend/) | 2026-06-29 | 3 | Informational |
 
 ## Methodology
 
