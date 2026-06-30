@@ -12,6 +12,7 @@ Each report covers a specific finding: severity, location, description, and reco
 | 002 | [Paxos PYUSD](./002-paxos-pyusd/) | 2026-06-29 | 3 | Informational |
 | 003 | [Kamino klend](./003-kamino-klend/) | 2026-06-29 | 3 | Informational |
 | 004 | [Drift Protocol v2](./004-drift-protocol/) | 2026-06-29 | 3 | Informational |
+| 005 | [Marinade Liquid Staking](./005-marinade-liquid-staking/) | 2026-06-29 | 3 | Informational |
 
 ## Methodology
 
